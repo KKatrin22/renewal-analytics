@@ -42,7 +42,8 @@ renewal-analytics/
 │   ├── pbi_dashboard_overview.png     
 │   ├── pbi_dashboard_managers.png    
 │   ├── pbi_matrix_k1.jpg              
-│   ├── pbi_matrix_k2.jpg                ├── ...                            
+│   ├── pbi_matrix_k2.jpg
+|   ├── ...                            
 │
 └── README.md                          # Основное описание проекта 
 
