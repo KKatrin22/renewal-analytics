@@ -1,4 +1,4 @@
-> ** Подробная методология расчёта KPI** → methodology.md
+<sub>📊 [Подробная методология расчёта KPI](power_query/methodology.md)</sub>
 
 # Анализ клиентских пролонгаций и эффективности менеджеров отдела сопровождения
 
@@ -43,6 +43,7 @@ renewal-analytics/
 │   ├── pbi_dashboard_managers.png
 │   ├── pbi_matrix_k1.jpg
 │   ├── pbi_matrix_k2.jpg
+│   ├── ...
 │
 └── README.md
 ```
