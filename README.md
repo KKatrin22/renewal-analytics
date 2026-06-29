@@ -25,28 +25,26 @@
 ```
 renewal-analytics/
 │
-├── data/
-│   ├── prolongations.csv
-│   ├── financial_data.csv
+├── data/                              # Исходные данные
+│   ├── prolongations.csv              # Завершённые проекты: ID, месяц закрытия, менеджер
+│   ├── financial_data.csv             # Помесячные отгрузки по проектам
 │
-├── power_query/
-│   ├── methodology.md
+├── power_query/                       # Скрипты и документация по обработке
+│   ├── methodology.md                 # Подробная методология расчёта KPI (формулы, логика)
 │
-├── report_excel/
-│   ├── KPI_prolongation_report.xlsx
+├── report_excel/                      # Итоговый управленческий отчёт
+│   ├── KPI_prolongation_report.xlsx   # Сводный Excel-файл с KPI и сводными таблицами
 │
-├── dashboard/
-│   ├── renewal_dashboard.pbix
+├── dashboard/                         # Интерактивный дашборд
+│   ├── renewal_dashboard.pbix         # Файл Power BI со всеми визуализациями
 │
-├── visualizations/
-│   ├── pbi_dashboard_overview.png
-│   ├── pbi_dashboard_managers.png
-│   ├── pbi_matrix_k1.jpg
-│   ├── pbi_matrix_k2.jpg
-│   ├── ...
+├── visualizations/                    # Экспортированные скриншоты дашборда
+│   ├── pbi_dashboard_overview.png     
+│   ├── pbi_dashboard_managers.png    
+│   ├── pbi_matrix_k1.jpg              
+│   ├── pbi_matrix_k2.jpg                ├── ...                            
 │
-└── README.md
-```
+└── README.md                          # Основное описание проекта 
 
 ---
 
